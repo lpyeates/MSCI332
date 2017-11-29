@@ -1,0 +1,6 @@
+Class currentSolution:
+    solution = []
+
+
+
+
